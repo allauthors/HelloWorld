@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Status Updater</string>
+<string name="sTitle">Status Update</string>
+<string name="sButtonUpdate">Set Status</string>
+<string name="titleUsername">Username</string>
+<string name="descUsername">This is your username for accessing the twitter-service of your choice</string>
+<string name="titlePassword">Password</string>
+<string name="descPassword">This is the password for your account with the twitter service of your choice.  If you don\'t want to enter your password, we can\'t post to twitter for you.</string>
+<string name="titleAPIRoot">API Root URL</string>
+<string name="descAPIRoot">This is the Root URL for API based access to the twitter service of your choice.  If you don\'t know the URL, you can try the base URL of the site but it will probably be wrong.</string>
+<string name="titlePrefs">Preferences</string>
+<string name="menuPrefs">Preferences</string>
+</resources>
